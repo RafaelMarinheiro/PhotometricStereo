@@ -1,0 +1,14 @@
+12
+owl.0.png
+owl.1.png
+owl.2.png
+owl.3.png
+owl.4.png
+owl.5.png
+owl.6.png
+owl.7.png
+owl.8.png
+owl.9.png
+owl.10.png
+owl.11.png
+owl.mask.png

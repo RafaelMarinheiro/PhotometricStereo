@@ -1,0 +1,14 @@
+12
+horse.0.png
+horse.1.png
+horse.2.png
+horse.3.png
+horse.4.png
+horse.5.png
+horse.6.png
+horse.7.png
+horse.8.png
+horse.9.png
+horse.10.png
+horse.11.png
+horse.mask.png

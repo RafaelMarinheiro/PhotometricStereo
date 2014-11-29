@@ -1,0 +1,14 @@
+12
+cat.0.png
+cat.1.png
+cat.2.png
+cat.3.png
+cat.4.png
+cat.5.png
+cat.6.png
+cat.7.png
+cat.8.png
+cat.9.png
+cat.10.png
+cat.11.png
+cat.mask.png
